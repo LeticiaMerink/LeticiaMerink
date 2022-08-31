@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h1> Hi 👋 I'm Letícia Merink </h1>
 
-- 🌱 I’m currently learning <strong>JavaScript, TypeScript and ReactJS</strong>
+- 🌱 I’m currently learning <strong>Java, Python and MySQL</strong>
 
 - 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
 
