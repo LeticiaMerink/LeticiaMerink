@@ -43,7 +43,7 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/leticiamohring/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-https://www.instagram.com/leticiamohring/" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leticiamohring&logoColor=white" alt="instagram"/>
 </a>
 </p>
 name: Generate Datas
