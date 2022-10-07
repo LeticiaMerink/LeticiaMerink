@@ -24,7 +24,9 @@
  
  ## 🛠 &nbsp;Tech Stack.
 
-![Java](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -34,7 +36,7 @@
 <br>
 <!-- Social network -->
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👱‍♀️ &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/let%C3%ADcia-merink-b36687227/" target="_blank">
