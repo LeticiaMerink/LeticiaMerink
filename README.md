@@ -38,10 +38,10 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/lucas-soares-barbosa/" target="_blank">
+<a href="https://www.linkedin.com/in/let%C3%ADcia-merink-b36687227/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-lucasbarbosa-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/lukas_soares019/" target="_blank">
+<a href="https://www.instagram.com/leticiamohring/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-lucasbarbosa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
