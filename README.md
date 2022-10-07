@@ -15,8 +15,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="395em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMerink_icons=true&theme=vision-friendly-dark" alt="lucassb15's stats"/>
-<img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMerink&layout=compact&theme=vision-friendly-dark" alt="lucassb15's most languages"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMerink_icons=true&theme=vision-friendly-dark" alt="LeticiaMerink's stats"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMerink&layout=compact&theme=vision-friendly-dark" alt="LeticiaMerink's most languages"/>
 
 </p>
 
@@ -32,7 +32,7 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VisualStudio-100000?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 
 <br>
 <!-- Social network -->
