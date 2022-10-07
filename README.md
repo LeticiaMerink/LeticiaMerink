@@ -1,9 +1,13 @@
 <!-- Introduction -->
-<h1> Hi 👋 I'm Letícia Merink </h1>
+<h1> Hi 👋  Welcome to my Github profile. I'm Letícia Merink and I'm 34 years old.
 
-- 🌱 I’m currently learning <strong>Java, Python and MySQL</strong>
+I love technology and how it can transform people's lives.
+Because this, I'm computing, science, innovation and tech lover.</h1>
 
-- 📚 Systems Analysis and Development Student at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
+- 🌱 I’m currently learning <strong>Java, Python, MySQL, Power BI and Scrum</strong>
+- 🎓 Graduating in Systems Analysis and Development at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
+- 📚 Studying to be the best data analyst and back end developer I can be.
+- 🙋🏻 Available and looking for an internship in software development.
 
 <br>
 <!-- GitHub Infos -->
