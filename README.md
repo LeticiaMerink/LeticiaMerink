@@ -1,8 +1,9 @@
 <!-- Introduction -->
 <h1> Hi 👋  Welcome to my Github profile.</h1>
-I'm Letícia Merink and I'm 34 years old.<\br>
-I love technology and how it can transform people's lives.
-Because this, I'm computing, science, innovation and tech lover.
+
+      I'm Letícia Merink and I'm 34 years old.
+      I love technology and how it can transform people's lives.
+      Because this, I'm computing, science, innovation and tech lover.
 
 - 🌱 I’m currently learning <strong>Java, Python, MySQL, Power BI and Scrum</strong>
 - 🎓 Graduating in Systems Analysis and Development at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
