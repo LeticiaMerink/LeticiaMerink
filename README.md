@@ -15,9 +15,8 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="395em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMerink_icons=true&theme=vision-friendly-dark" alt="LeticiaMerink's stats"/>
+<img width="395em" src="https://github-readme-stats.vercel.app/api?username=LeticiaMerink&show_icons=true&theme=vision-friendly-dark" alt="LeticiaMerink's stats"/>
 <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeticiaMerink&layout=compact&theme=vision-friendly-dark" alt="LeticiaMerink's most languages"/>
-
 </p>
 
 <br>
@@ -44,7 +43,7 @@
   <img align="center" src="https://img.shields.io/badge/LeticiaMerink-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="leticiamohring"/>
 </a>
 <a href="https://www.instagram.com/leticiamohring/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=leticiamohring&logoColor=white" alt="leticiamohring"/>
+ <img align="center" src="https://img.shields.io/badge/LeticiaMerink-E4405F?style=for-the-badge&logo=leticiamohring&logoColor=white" alt="leticiamohring"/>
 </a>
 </p>
 
