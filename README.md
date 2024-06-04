@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h1> Hi 👋  Welcome to my Github profile.</h1>
 
-      I'm Letícia Merink and I'm 34 years old.
+      I'm Letícia Merink and I'm 36 years old.
       I love technology and how it can transform people's lives.
       Because this, I'm computing, science, innovation and tech lover.
 
