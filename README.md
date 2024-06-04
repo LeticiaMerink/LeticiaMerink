@@ -5,10 +5,10 @@
       I love technology and how it can transform people's lives.
       Because this, I'm computing, science, innovation and tech lover.
 
-- 🌱 I’m currently learning <strong>Java, Python, MySQL, Power BI and Scrum</strong>
+- 🌱 I am currently learning <strong>Python, Relational Database (MySQL) and Non-Relational Database (MongoDB), Power BI, Data Analysis with Python and Pandas, Machine Learning, Statistics and Scrum.</strong>
 - 🎓 Graduating in Systems Analysis and Development at [Fatec Guaratinguetá](http://www.fatecguaratingueta.edu.br/).
-- 📚 Studying to be the best data analyst and back end developer I can be.
-- 🙋🏻 Available and looking for an internship in software development.
+- 📚 Studying to be the best Data Scientist I can be.
+- 🙋🏻 Available and looking for an internship in data science.
 
 <br>
 <!-- GitHub Infos -->
